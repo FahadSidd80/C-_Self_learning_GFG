@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32516.85
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_Calculte_interest", "WebApp_Calculte_interest\WebApp_Calculte_interest.csproj", "{91153D09-692C-43A7-ADB3-B48C4442F2EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91153D09-692C-43A7-ADB3-B48C4442F2EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91153D09-692C-43A7-ADB3-B48C4442F2EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91153D09-692C-43A7-ADB3-B48C4442F2EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91153D09-692C-43A7-ADB3-B48C4442F2EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A30A95F6-E6DA-439B-BC24-2A9AD25E1843}
+	EndGlobalSection
+EndGlobal

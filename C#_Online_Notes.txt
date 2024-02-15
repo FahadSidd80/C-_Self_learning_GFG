@@ -1,0 +1,46 @@
+C# has a total of 79 keywords. All these keywords are in lowercase. Here is a complete list of all C# keywords.
+
+abstract		as		base			bool
+break			byte		case			catch
+char			checked		class			const
+continue		decimal		default			delegate
+do			double		else			enum
+event			explicit	extern			false
+finally			fixed		float			for
+foreach			goto		if			implicit
+
+in			in(generic 	int			interface
+			   modifier)
+internal		is		lock			long
+namespace		new		null			object
+operator		out		out(generic modifier)	override
+params			private		protected		public
+readonly		ref		return			sbyte
+sealed			short		sizeof			stackalloc
+static			string		struct			switch
+this			throw		true			try
+typeof			uint		ulong			unchecked
+unsafe			ushort		using			using static
+void			volatile	while
+
+
+
+
+
+Alias	Type Name	Type	Size(bits)	Range	Default Value
+
+sbyte	System.Sbyte	signed integer	8	-128 to 127	0
+
+short	System.Int16	signed integer	16	-32768 to 32767	0
+
+int	System.Int32	signed integer	32	-231 to 231-1	0
+
+long	System.Int64	signed integer	64	-263 to 263-1	0L
+
+byte	System.byte	unsigned integer	8	0 to 255	0
+
+ushort	System.UInt16	unsigned integer	16	0 to 65535	0
+
+uint	System.UInt32	unsigned integer	32	0 to 232	0
+
+ulong	System.UInt64	unsigned integer	64	0 to 263	0

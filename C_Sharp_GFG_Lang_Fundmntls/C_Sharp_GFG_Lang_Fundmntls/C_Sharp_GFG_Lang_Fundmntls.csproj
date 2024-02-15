@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+    <StartupObject>C_Sharp_GFG_Lang_Fundmntls._4_Methods.Methods</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="3_OOPS_Concepts\" />
+    <Folder Include="6_ArrayList\" />
+    <Folder Include="7_String\" />
+    <Folder Include="8_Touple\" />
+    <Folder Include="9_Properties\" />
+    <Folder Include="9_Z_Collection_and_Generics\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = C_Sharp_HackerRank_Dumps_130923_JSE
+build_property.ProjectDir = C:\2_C#_Console_self_Learning\C_Sharp_07Sept-30Sept23\C_Sharp_HackerRank_Dumps_130923_JSE\C_Sharp_HackerRank_Dumps_130923_JSE\
